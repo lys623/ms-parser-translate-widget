@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "crypto": "0.0.3",
+    "iconv-lite": "^0.4.12",
+    "smarty4js": "^0.1.6",
+    "velocityjs": "^0.7.1"
+  }
+}
